@@ -1,0 +1,455 @@
+    .body{
+        background-color: #2A262B;
+    }
+
+   
+
+    .header{
+        background-color: #2A262B;
+        font-family: 'Inter', sans-serif;
+        display: flex;
+        padding-bottom: 150px;
+    }
+    
+    .container{
+        position: relative;
+        z-index: 0;
+    }
+    
+
+    .ellipse10{
+        position: absolute;
+        padding-left: 450px;
+    }
+    
+    .rectangle2{
+        position: absolute;
+        padding-left: 185px;
+        padding-top: 68px;
+        z-index: -1;
+    }
+    
+    .header h3{
+        color:white;
+        font-size: 30px;
+        padding-left: 200px;
+        padding-top: 20px;
+    }
+    
+    .header h2{
+        color: white;
+        font-size: 42px;
+        padding-left: 200px;
+        padding-top: 30px;
+        font-weight: 500;
+    }
+    
+    .profilFoto{
+        margin-top: 100px;
+        margin-left: 170px;
+        width: 341px;
+        height: 341px;
+        box-shadow: -20px -20px rgb(233,37,119);
+        border-radius: 22px;
+        position: relative;
+    }
+    
+    .rectangle18{
+        position: absolute;
+        padding-left: 1400px;
+        padding-top: 430px;
+    }
+    
+    .ellipse11{
+        position: absolute;
+        padding-left: 1080px;
+        padding-top: 595px;
+        z-index: 2;
+    }
+    
+    .linkedinGithub{
+        padding-left: 200px;
+        display: flex;
+        padding-top: 30px;
+    }
+    
+    .linkedinGithub :last-child{
+        padding-left: 25px;
+    }
+    
+    .başlık p{
+        color: white;
+        padding-left: 200px;
+        padding-top: 20px;
+    }
+    
+    .skills{
+        z-index: 1;
+        color: white;
+        background-color: #484148;
+        font-family: 'Inter', sans-serif;
+        padding-bottom: 150px;
+        position: relative;
+    }
+    
+    .ellipse12{
+        position: absolute;
+        padding-left: 1440px;
+        padding-top: 115px;
+    }
+    
+    .rectangle22{
+        position: absolute;
+        padding-left: 0px;
+        padding-top: 50px;
+    }
+    
+    .skills h2{
+        font-size: 48px;
+        text-align: center;
+        padding-top: 90px;
+        font-weight: 500;
+    }
+    
+    .programlar{
+        display: flex;
+        justify-content: space-between;
+        width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 50px;
+    }
+    
+    .programlar div img{
+        width: 120px;
+        height: 120px;
+    }
+    
+    .programlar div h3{
+        font-family: 'Inter', sans-serif;
+        font-size: 24px;
+        text-align: center;
+        padding-top: 10px;
+        color:white;
+    }
+    
+    .profile{
+        color: white;
+        background-color: #2A262B;
+        padding-bottom: 100px;
+    }
+    
+    .açıklama2{
+        position: relative;
+        z-index: 0;
+    }
+    
+    .rectangle39{
+        position: absolute;
+        padding-left: 20px;
+        padding-top: 90px;
+        z-index: -1;
+    }
+    
+    
+    .profile h2{
+        font-size: 36px;
+        text-align: center;
+        padding-top: 90px;
+        font-weight: 500;
+        font-family: 'Inter', sans-serif;
+    }
+    
+    .açıklama{
+        display: flex;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .açıklama1{
+        background-color: #525252;
+        margin-top: 30px;
+        margin-right: 50px;
+        width:1000px;
+        height: 322px;
+        border-radius: 12px;
+        box-shadow: 10px 10px rgb(51, 51, 51);
+    }
+    
+    .açıklama1 h3{
+        font-size: 24px;
+        font-family: 'Playfair Display', serif;
+        padding-left: 50px;
+        padding-top: 40px;
+    }
+    
+    .column{
+        display: flex;
+        padding-left: 50px;
+    }
+    
+    
+    .column1{
+        font-size: 18px;
+        font-family: 'Inter', sans-serif;
+        font-weight: 600;
+    }
+    
+    .column1 p{
+        padding-top: 15px;
+    }
+    
+    .column2{
+        font-size: 18px;
+        font-family: 'Inter', sans-serif;
+        font-weight: 400;
+    }
+    
+    .column2 p{
+        padding-left: 30px;
+        padding-top: 15px;
+    }
+    
+    .açıklama2 h3{
+        font-size: 24px;
+        font-weight: 400;
+        font-family: 'Playfair Display', serif;
+        padding-left: 30px;
+        padding-top: 70px;
+    }
+    
+    .açıklama2 p{
+        font-size: 18px;
+        font-family: 'Inter', sans-serif;
+        font-weight: 400;
+        padding-left: 30px;
+        padding-top: 20px;
+    }
+    
+    .projeler{
+        color: white;
+        background-color: #484148;
+        padding-bottom: 150px;
+    }
+    
+    .projeler h2{
+        font-size: 36px;
+        text-align: center;
+        padding-top: 90px;
+        font-weight: 500;
+        font-family: 'Inter', sans-serif;
+    }
+    
+    .projelerBölümleri{
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .sol{
+        background-color: #2D3235;
+        border-radius: 12px;
+        width: 500px;
+        height: 668px;
+        margin-left: 200px;
+        margin-top: 35px;
+    }
+    
+    .sağ{
+        background-color: #495351;
+        border-radius: 12px;
+        width: 500px;
+        height: 668px;
+        margin-right: 200px;
+        margin-top: 35px;
+    }
+    
+    .sol h3{
+        font-size: 29px;
+        font-weight: 700;
+        font-family: 'Playfair Display', serif;
+        padding-left: 50px;
+        padding-top: 60px;
+    }
+    
+    .sol p{
+        font-size: 16px;
+        font-weight: 400;
+        font-family: 'Inter', sans-serif;
+        width: 85%;
+        padding-left: 50px;
+        padding-top: 20px;
+    }
+    
+    .kutu{
+        display: inline-block;
+        margin-right: 10px;
+        font-size: 16px;
+        font-weight: 700;
+        font-family: 'Playfair Display', serif;
+        background: #525252;
+        height: 32px;
+        width: 89px;
+        text-align: center;
+        border-radius: 76px;
+        margin-top: 10px;
+    }
+    
+    .kutular{
+        padding-left: 50px;
+        padding-top: 20px;
+    }
+    
+    .tıkla{
+        font-size: 20px;
+        font-weight: 600;
+        font-family: 'Inter', sans-serif;
+        display: flex;
+        justify-content: space-around;
+        padding-top: 45px;
+        align-items: center;
+    }
+    
+    .sağ h3{
+        font-size: 29px;
+        font-weight: 700;
+        font-family: 'Playfair Display', serif;
+        padding-left: 50px;
+        padding-top: 60px;
+    }
+    
+    .sağ p{
+        font-size: 16px;
+        font-weight: 400;
+        font-family: 'Inter', sans-serif;
+        width: 85%;
+        padding-left: 50px;
+        padding-top: 20px;
+    }
+    
+    .kutular2{
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+    
+    .tıkla2{
+        font-size: 20px;
+        font-weight: 600;
+        font-family: 'Inter', sans-serif;
+        display: flex;
+        justify-content: space-around;
+        padding-top: 30px;
+        align-items: center;
+    }
+    
+    .footer{
+        color: white;
+        background-color: #484148;
+        display: flex;
+        padding-bottom: 100px;
+        position: relative;
+        z-index: 0;
+    }
+    
+    .rectangle40{
+        position: absolute;
+        padding-left: 580px;
+        padding-top: 40px;
+        z-index: -1;
+    }
+    
+    .footer h2{
+        font-size: 42px;
+        font-weight: 500;
+        font-family: 'Inter', sans-serif;
+        text-align: right;
+        width: 60%;
+    }
+    
+    .footerLink{
+        font-size: 24px;
+        font-weight: 500;
+        font-family: 'Inter', sans-serif;
+        padding-left: 70px;
+    }
+    
+    .navigate{
+        display:flex;
+        padding-left: 970px;
+        background-color: #2A262B;
+        padding-top: 100px;
+        color: #F4F4F4;
+    }
+    
+    .navigate button{
+        font-size: 15px;
+        font-weight: 700;
+        font-family: 'Inter', sans-serif;
+        letter-spacing: 1px;
+        padding-left: 20px;
+    }
+    
+    .navigate span{
+        padding-left: 10px;
+        padding-top: 1px;
+        font-size: 15px;
+        font-weight: 700;
+        font-family: 'Inter', sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .switch {
+        position: relative;
+        display: inline-block;
+        width: 55px;
+        height: 24px;
+      }
+    
+      .switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+      }
+    
+      .slider {
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #F4F4F4;
+        -webkit-transition: .4s;
+        transition: .4s;
+        border-radius: 34px;
+        border-color: #E92577;
+      }
+      
+      .slider:before {
+        position: absolute;
+        content: "";
+        height: 18px;
+        width: 18px;
+        left: 5px;
+        bottom: 3px;
+        background-color: #FFE86E;
+        -webkit-transition: .4s;
+        transition: .4s;
+        border-radius: 50%;
+      }
+      
+      input:checked + .slider {
+        background-color: #E92577;
+      }
+      
+      input:focus + .slider {
+        box-shadow: 0 0 1px #E92577;
+      }
+      
+      input:checked + .slider:before {
+        -webkit-transform: translateX(26px);
+        -ms-transform: translateX(26px);
+        transform: translateX(26px);
+      }
+
+
